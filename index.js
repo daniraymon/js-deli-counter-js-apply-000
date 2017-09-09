@@ -5,3 +5,7 @@ function takeANumber(katzDeli, customer) {
   katzDeli.push(customer);
   return "Welcome, " + customer + ". You are number " + position + " in line.";
 }
+
+function nowServing() {
+  
+}
