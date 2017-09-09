@@ -1,4 +1,4 @@
 function takeANumber(katzDeli, customer) {
-
-  return "Welcome, " + customer + ". You are number " + 1 + " in line.";
+  var position = katzDeli.length + 1;
+  return "Welcome, " + customer + ". You are number " + position + " in line.";
 }
