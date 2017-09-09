@@ -19,5 +19,10 @@ function currentLine(katzDeli) {
   if (katzDeli.length === 0) {
     return "The line is currently empty.";
   }
-  
+  var list = "";
+  for (var i = 0; i < katzDeli.length; i++) {
+    var customer = katzDeli[i];
+    var sent = 
+  }
+  return "The line is currently: " + 1. Bill, 2. Jane, 3. Ann;
 }
