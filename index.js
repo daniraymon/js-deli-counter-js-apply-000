@@ -23,7 +23,7 @@ function currentLine(katzDeli) {
   for (var i = 0; i < katzDeli.length; i++) {
     var customer = katzDeli[i];
     var counter = 1;
-    list += 
+    list += counter + ". " + customer;
     counter++;
   }
   return "The line is currently: " + 1. Bill, 2. Jane, 3. Ann;
